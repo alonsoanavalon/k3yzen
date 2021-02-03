@@ -15,7 +15,7 @@
 </p>
 
 
-<h3 align="center">A front-end developer junior from Chile</h3>
+<h3 align="center">A web developer junior from Chile</h3>
 
 
 <p align="center">
