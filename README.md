@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm k3yzen</h1>
 
 <p align="center">
-  <a href="https://github.com/k3yzen"><img src="https://img.shields.io/github/followers/k3yzen?label=follow&style=social"/></a>
+  <a href="https://github.com/k3yzen"><img src="https://img.shields.io/github/followers/k3yzen?label=follow&style=social" /></a>
 </p>
 
 <p align="center">
