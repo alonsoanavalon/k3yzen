@@ -1,18 +1,14 @@
 
 
-<h1 align="center">Hi 👋, I'm k3yzen</h1>
+<h1 align="center">Hola, soy k3yzen</h1>
 
 <p align="center">
   <a href="https://github.com/k3yzen"><img src="https://img.shields.io/github/followers/k3yzen?label=follow&style=social"/></a>
 </p>
 
 
-<h3 align="center"> Desarrollador web de Chile</h3>
-
-
-<p align="center">
-  <img align="center" width="200" src="https://img.shields.io/static/v1?label=WebTechnologies&message=FrontendDeveloper&color=green" />
-</p>
+<h3 align="center"> Desarrollador web de <img width="50%" height="150px src="https://www.flaticon.es/svg/vstatic/svg/197/197586.svg?token=exp=1613100136~hmac=a4a2e502bc08d16ecbcb83f6d120edd6">
+</h3>
 
 
 <p align="center">
