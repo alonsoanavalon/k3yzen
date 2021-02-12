@@ -6,16 +6,8 @@
   <a href="https://github.com/k3yzen"><img src="https://img.shields.io/github/followers/k3yzen?label=follow&style=social"/></a>
 </p>
 
-<p align="center">
-  <a href=https://codepen.io/k3yzen target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
-  <a href=https://es-la.facebook.com/el.keyzen target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg height="20" width="20" /></a>
-  <a href=https://twitter.com/k3yzen target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a>
-  <a href=https://www.linkedin.com/in/alonso-anaval%C3%B3n-y%C3%A1%C3%B1ez-133019144/ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg height="20" width="20" /></a>
-  <a href=https://www.instagram.com/keyz3n/ target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg height="20" width="20" /></a>
-</p>
 
-
-<h3 align="center">A web developer junior from Chile </h3>
+<h3 align="center"> Desarrollador web de Chile</h3>
 
 
 <p align="center">
