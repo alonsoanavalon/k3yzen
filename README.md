@@ -7,8 +7,7 @@
 </p>
 
 
-<h3 align="center"> Desarrollador web de <img width="50%" height="150px src="https://www.flaticon.es/svg/vstatic/svg/197/197586.svg?token=exp=1613100136~hmac=a4a2e502bc08d16ecbcb83f6d120edd6">
-</h3>
+<h3 align="center"> Desarrollador web </h3>
 
 
 <p align="center">
