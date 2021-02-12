@@ -2,9 +2,7 @@
 
 <h1 align="center">Hola, soy k3yzen</h1>
 
-<p align="center">
-  <a href="https://github.com/k3yzen"><img src="https://img.shields.io/github/followers/k3yzen?label=follow&style=social"/></a>
-</p>
+
 
 
 <h3 align="center"> Desarrollador web </h3>
