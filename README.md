@@ -5,7 +5,7 @@
 
 
 
-<h3 align="center"> Desarrollador</h3>
+<h3 align="center">Desarrollador web</h3>
 
 
 <p align="center">
